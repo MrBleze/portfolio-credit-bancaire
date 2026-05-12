@@ -135,8 +135,7 @@ sqlite3 portefeuille_credit.db < sql/03_analyses.sql
 
 **[Bleze TCHALLA]**  
 Business Data Analyst Freelance  
-Spécialité : Pilotage de performance · KPIs · Power BI · SQL  
-Références : TotalEnergies · ATR
+Spécialité : Pilotage de performance · KPIs · Power BI · SQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue)](https://linkedin.com/in/ton-profil)
 
