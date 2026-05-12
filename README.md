@@ -1,4 +1,4 @@
-# 🏦 Analyse Risque Crédit & Pilotage de Portefeuille Bancaire
+# 🏦 Analyse Risque Crédit & Pilotage de Portefeuille Bancaire ![Dashboard Risque Crédit](screenshots/dashboard-vue-direction.png)
 
 > **Portfolio Project** | Business Data Analyst Freelance  
 > Stack : SQL · Power BI · Excel  
