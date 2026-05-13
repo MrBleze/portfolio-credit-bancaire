@@ -133,7 +133,7 @@ sqlite3 portefeuille_credit.db < sql/03_analyses.sql
 
 ## 👤 Auteur
 
-**[Bleze TCHALLA]**  
+**Bleze TCHALLA**  
 Business Data Analyst Freelance  
 Spécialité : Pilotage de performance · KPIs · Power BI · SQL
 
