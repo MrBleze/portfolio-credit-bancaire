@@ -1,6 +1,6 @@
 -- ============================================================
 -- PORTFOLIO BANCAIRE - Analyse Risque Crédit & Pilotage
--- Auteur : [Bleze TCHALLA] | Business Data Analyst Freelance
+-- Auteur : Bleze TCHALLA | Business Data Analyst Freelance
 -- Stack  : SQL + Power BI
 -- ============================================================
 
